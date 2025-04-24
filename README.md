@@ -1,4 +1,5 @@
 # edu-contester
-I created this application around 2015 for my classmates. I nostalgically remember those years and publish this project in memory of that time.
+I made this application around 2015 for my university mates. I remember those years nostalgically and now publish this project in memory of those times.
 
-With respect and warmth, for IST-12.
+To IST-12 respectfully,
+Timur.
